@@ -1,0 +1,15 @@
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/bin/Debug/net9.0/HealthSystemQ2
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/bin/Debug/net9.0/HealthSystemQ2.deps.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/bin/Debug/net9.0/HealthSystemQ2.runtimeconfig.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/bin/Debug/net9.0/HealthSystemQ2.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/bin/Debug/net9.0/HealthSystemQ2.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.AssemblyInfoInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.AssemblyInfo.cs
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.csproj.CoreCompileInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.sourcelink.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/refint/HealthSystemQ2.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/HealthSystemQ2.genruntimeconfig.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/HealthSystemQ2/obj/Debug/net9.0/ref/HealthSystemQ2.dll

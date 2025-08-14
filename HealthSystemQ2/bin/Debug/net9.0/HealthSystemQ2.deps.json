@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "HealthSystemQ2/1.0.0": {
+        "runtime": {
+          "HealthSystemQ2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HealthSystemQ2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
