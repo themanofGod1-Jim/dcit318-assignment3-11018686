@@ -1,0 +1,15 @@
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/bin/Debug/net9.0/WarehouseQ3
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/bin/Debug/net9.0/WarehouseQ3.deps.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/bin/Debug/net9.0/WarehouseQ3.runtimeconfig.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/bin/Debug/net9.0/WarehouseQ3.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/bin/Debug/net9.0/WarehouseQ3.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.AssemblyInfoInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.AssemblyInfo.cs
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.csproj.CoreCompileInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.sourcelink.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/refint/WarehouseQ3.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/WarehouseQ3.genruntimeconfig.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/WarehouseQ3/obj/Debug/net9.0/ref/WarehouseQ3.dll
