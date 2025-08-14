@@ -1,0 +1,14 @@
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/bin/Debug/net9.0/FinanceAppQ1
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/bin/Debug/net9.0/FinanceAppQ1.deps.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/bin/Debug/net9.0/FinanceAppQ1.runtimeconfig.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/bin/Debug/net9.0/FinanceAppQ1.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/bin/Debug/net9.0/FinanceAppQ1.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/FinanceAppQ1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/FinanceAppQ1.AssemblyInfoInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/FinanceAppQ1.AssemblyInfo.cs
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/FinanceAppQ1.csproj.CoreCompileInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/FinanceAppQ1.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/refint/FinanceAppQ1.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/FinanceAppQ1.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/FinanceAppQ1.genruntimeconfig.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/FinanceAppQ1/obj/Debug/net9.0/ref/FinanceAppQ1.dll
