@@ -1,0 +1,32 @@
+[
+  {
+    "Id": 1,
+    "Name": "Laptop",
+    "Quantity": 10,
+    "DateAdded": "2025-08-14T13:46:37.620154+00:00"
+  },
+  {
+    "Id": 2,
+    "Name": "Smartphone",
+    "Quantity": 25,
+    "DateAdded": "2025-08-14T13:46:37.638053+00:00"
+  },
+  {
+    "Id": 3,
+    "Name": "Milk",
+    "Quantity": 50,
+    "DateAdded": "2025-08-14T13:46:37.638067+00:00"
+  },
+  {
+    "Id": 4,
+    "Name": "Bread",
+    "Quantity": 30,
+    "DateAdded": "2025-08-14T13:46:37.63807+00:00"
+  },
+  {
+    "Id": 5,
+    "Name": "Tablet",
+    "Quantity": 15,
+    "DateAdded": "2025-08-14T13:46:37.638071+00:00"
+  }
+]

@@ -1,0 +1,15 @@
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/bin/Debug/net9.0/InventoryQ5
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/bin/Debug/net9.0/InventoryQ5.deps.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/bin/Debug/net9.0/InventoryQ5.runtimeconfig.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/bin/Debug/net9.0/InventoryQ5.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/bin/Debug/net9.0/InventoryQ5.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.AssemblyInfoInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.AssemblyInfo.cs
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.csproj.CoreCompileInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.sourcelink.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/refint/InventoryQ5.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/InventoryQ5.genruntimeconfig.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/InventoryQ5/obj/Debug/net9.0/ref/InventoryQ5.dll
