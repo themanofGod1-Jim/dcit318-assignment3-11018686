@@ -1,0 +1,10 @@
+Esi Mensah (ID: 101): Score = 85, Grade = A
+Kwame Ofori (ID: 102): Score = 72, Grade = B
+Paul Asare (ID: 103): Score = 66, Grade = C
+Ama Boateng (ID: 104): Score = 54, Grade = D
+Kofi Adu (ID: 105): Score = 48, Grade = F
+Abena Owusu (ID: 106): Score = 91, Grade = A
+Yaw Opoku (ID: 107): Score = 77, Grade = B
+Nana Akua (ID: 108): Score = 63, Grade = C
+Kweku Danso (ID: 109): Score = 58, Grade = D
+Akosua Fosu (ID: 110): Score = 49, Grade = F

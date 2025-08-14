@@ -1,0 +1,10 @@
+101,Esi Mensah,85
+102,Kwame Ofori,72
+103,Paul Asare,66
+104,Ama Boateng,54
+105,Kofi Adu,48
+106,Abena Owusu,91
+107,Yaw Opoku,77
+108,Nana Akua,63
+109,Kweku Danso,58
+110,Akosua Fosu,49

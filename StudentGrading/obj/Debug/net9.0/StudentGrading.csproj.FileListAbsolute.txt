@@ -1,0 +1,15 @@
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/bin/Debug/net9.0/StudentGrading
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/bin/Debug/net9.0/StudentGrading.deps.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/bin/Debug/net9.0/StudentGrading.runtimeconfig.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/bin/Debug/net9.0/StudentGrading.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/bin/Debug/net9.0/StudentGrading.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.AssemblyInfoInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.AssemblyInfo.cs
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.csproj.CoreCompileInputs.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.sourcelink.json
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/refint/StudentGrading.dll
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.pdb
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/StudentGrading.genruntimeconfig.cache
+/Users/dersunscheinyn/Desktop/dcit318-assignment3-11018686/StudentGrading/obj/Debug/net9.0/ref/StudentGrading.dll
